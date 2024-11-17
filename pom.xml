@@ -38,6 +38,12 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
+		<!-- Dependência para o Springdoc OpenAPI -->
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-ui</artifactId>
+			<version>1.8.0</version> <!-- Use a versão mais recente -->
+		</dependency>
 
 		<dependency>
 			<groupId>com.h2database</groupId>
